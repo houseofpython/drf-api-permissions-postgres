@@ -25,6 +25,7 @@ This took me 2 hours, expected it to take me 2.5 hours
 -[Code](https://github.com/houseofpython/drf-postgres/tree/77e035819601fa83c005822e6576d1793694c235/thing)
 
 This app is a full stack application that has a API call and uses docker that has custom permissions for api and uses postgresql database. 
+05/03 - added auth and production server 
 
 ## License
 
